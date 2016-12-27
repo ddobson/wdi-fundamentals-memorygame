@@ -40,7 +40,9 @@ footer {
   border-radius: 10px;
   float: left;
   margin: 8%;
-
+}
+.card img {
+  width: 100%;
 }
 .name {
   color: #ff0000;
